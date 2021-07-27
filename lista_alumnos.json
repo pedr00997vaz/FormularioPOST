@@ -1,0 +1,46 @@
+[
+    {
+        "item_id": 2,
+        "matricula": 15,
+        "nombre": "Eduardo",
+        "apaterno": "G\u00f3mez",
+        "amaterno": "N\u00e1jera",
+        "edad": 22,
+        "correo": "eduardo@gmail.com",
+        "telefono": 9983141215,
+        "carrera": "Redes Inteligentes"
+    },
+    {
+        "item_id": 3,
+        "matricula": 20,
+        "nombre": "Manuel",
+        "apaterno": "Ruiz",
+        "amaterno": "Cruz",
+        "edad": 22,
+        "correo": "manuel@gmail.com",
+        "telefono": 9611542314,
+        "carrera": "Redes Inteligentes"
+    },
+    {
+        "item_id": 4,
+        "matricula": 18,
+        "nombre": "Pedro",
+        "apaterno": "V\u00e1zquez",
+        "amaterno": "S\u00e1nchez",
+        "edad": 22,
+        "correo": "pedr0@gmail.com",
+        "telefono": 9191571308,
+        "carrera": "Redes Inteligentes"
+    },
+    {
+        "item_id": 5,
+        "matricula": 11,
+        "nombre": "Paty",
+        "apaterno": "Perez",
+        "amaterno": "Santiz",
+        "edad": 21,
+        "correo": "paty@gmail.com",
+        "telefono": 9671452341,
+        "carrera": "Redes"
+    }
+]
